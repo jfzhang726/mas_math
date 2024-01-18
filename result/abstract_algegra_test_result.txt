@@ -1,0 +1,236 @@
+student 
+1. B  B  1
+2. C  B  0
+3. D  C  0
+4. B  A  0
+5. B  B  1
+6. A  D  0
+7. A  C  0
+8. D  C  0
+9. B  C  0
+10. C  C  1
+11. C  C  1
+12. C  C  1
+13. A  A  1
+14. C  N/A 0
+15. C  N/A 0
+16. B  D  0
+17. C  D  0
+18. C  C  1
+19. D  D  1
+20. A  D  0
+21. A  D  0
+22. A  N/A 0
+23. D  D  1
+24. D  C  0
+25. B  C  0
+26. C  C  1
+27. C  C  1
+28. B  D  0
+29. D  C  0
+30. A  A  1
+31. B  C  0
+32. B  A  0
+33. A  C  0
+34. C  C  1
+35. A  C  0
+36. B  B  1
+37. D  C  0
+38. B  D  0
+39. C  B  0
+40. D  A  0
+41. C  C  1
+42. A  B  0
+43. B  C  0
+44. C  C  1
+45. C  C  1
+46. C  C  1
+47. B  D  0
+48. B  D  0
+49. C  C  1
+50. B  B  1
+51. D  D  1
+52. B  C  0
+53. A  N/A 0
+54. C  D  0
+55. B  B  1
+56. A  D  0
+57. D  C  0
+58. B  A  0
+59. A  C  0
+60. A  C  0
+61. D  A  0
+62. D  C  0
+63. C  C  1
+64. B  A  0
+65. B  B  1
+66. C  C  1
+67. D  C  0
+68. C  A  0
+69. A  A  1
+70. A  C  0
+71. D  N/A  0
+72. C  B  0
+73. D  C  0
+74. B  B  1
+75. D  C  0
+76. B  C  0
+77. C  C  1
+78. A  A  1
+79. D  C  0
+80. C  C  1
+81. B  C  0
+82. D  A  0
+83. A  C  0
+84. C  D  0
+85. D  C  0
+86. C  B  0
+87. A  C  0
+88. A  N/A  0
+89. A  A  1
+90. C  C  1
+91. D  C  0
+92. B  B  1
+93. B  D  0
+94. A  C  0
+95. D  A  0
+96. C  D  0
+97. B  B  1
+98. C  C  1
+99. C  C  1
+100. C  D  0
+
+
+
+score: 36
+
+
+
+
+student and critic 2
+1. B  B  1
+2. C  C  1
+3. D  D  1
+4. B  C  0 (student got A, critic got C, student agreed C)
+5. B  B  1
+6. A  A  1 (student got D, critic got A, student agreed A)
+7. A  C  0 
+8. D  C  0  
+9. B  C  0
+10. C  C  1 (student got A, critic got C, student agreed C)
+11. C  C  1
+12. C  B  0 (student got C, critic made mistake B, student agreed B)
+13. A  D  0 (student mistaked N/A, critic made mistake D, student agreed D)
+14. C  N/A 0 (student mistaken N/A, cirtic mistaked another not in choices, student mistaken another not in choices)
+15. C  C  1  (student mistake D, critic got C, student agreed C)
+16. B  C  0
+17. C  A  0  (student got D, critic pointed mistake, student did again got A)
+18. C  C  1
+19. D  C  0
+20. A  D  0
+21. A  A  1
+22. A  N/A  0  (student got A, cirtic got N/A, student agreed N/A)
+23. D  C  0
+24. D  D  1
+25. B  C  0
+26. C  A  0
+27. C  C  1  (student got D, critic got C, student agreed C)
+28. B  A  0
+29. D  D  1
+30. A  C  0
+31. B  A  0
+32. B  B  1
+33. A  A  1
+34. C  C  1
+35. A  D  0
+36. B  B  1
+37. D  D  1
+38. B  D  0
+39. C  C  1
+40. D  D  1
+41. C  C  1
+42. A  B  0
+43. B  C  0
+44. C  C  1
+45. C  B  0
+46. C  C  1
+47. B  C  0
+48. B  A  0
+49. C  A  0
+50. B  D  0
+51. D  C  0  (student got D, critic got C, student agreed C)
+52. B  A  0
+53. A  A  1
+54. C  D  0  (student got C, critic said incorrect, student got D)
+55. B  B  1
+56. A  C  0  (student got D, critic got C, student agreed C)
+57. D  C  0  (student got D, cirtic got C, student agreed C)
+58. B  B  1
+59. A  D  0
+60. A  C  0
+61. D  A  0
+62. D  A  0
+63. C  A  0
+64. B  A  0
+65. B  B  1
+66. C  C  1
+67. D  C  0  (student got D, cirtic got C, student agreed C)
+68. C  B  0
+69. A  N/A 0  (student got N/A, critic got another N/A, student agreed)
+70. A  C  0
+71. D  C  0  (student got B, critic got C, student agreed C)
+72. C  C  1
+73. D  D  1
+74. B  A  0  (student and critic got correct number 3 but reported wrong option A) 
+75. D  D  1
+76. B  A  0
+77. C  A  0
+78. A  C  0  (student A, critic got C, student agreed C)
+79. D  D  1  (student got C, critic said incorrect, student got D)
+80. C  C  1
+81. B  C  0
+82. D  C  0
+83. A  A  1
+84. C  D  0
+85. D  C  0
+86. C  C  1
+87. A  A  1
+88. A  D  0
+89. A  A  1
+90. C  C  1
+91. D  A  0
+92. B  B  1 (student got C, critic got B, student agreed B)
+93. B  C  0
+94. A  A  1
+95. D  A  0
+96. C  A  0
+97. B  B  1
+98. C  D  0 (student got C, critic got D, student agreed D)
+99. C  N/A 0 (student got A, critic got N/A, student agreed N/A)
+100. C  D  0
+
+
+
+incorrect -> correct: 6
+correct -> incorrect: 8
+incorrect -> incorrect: 8
+
+score: 42
+
+
+
+
+
+student and critic (old version)
+1. B  B  1
+2. C  C  1
+3. D  A  0
+4. B  A  0
+5. B  B  1
+6. A  D  0
+7. A  C  0
+8. D  A  0  (student got D, critic made mistake)
+9. B  C  0
+10. C  C  1
+
+score: 4
