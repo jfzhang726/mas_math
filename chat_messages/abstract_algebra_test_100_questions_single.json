@@ -118,10 +118,7 @@
             "answer": "C"
         },
         "response": "To find all the zeros of the polynomial x^3 + 2x + 2 in the finite field Z_7, we substitute each element of Z_7 into the polynomial and check for zeros.\n\nSubstituting 0 from Z_7, we get:\n0^3 + 2(0) + 2 = 2\nTherefore, 0 is not a zero of the polynomial.\n\nSubstituting 1 from Z_7, we get:\n1^3 + 2(1) + 2 = 5\nTherefore, 1 is not a zero of the polynomial.\n\nSubstituting 2 from Z_7, we get:\n2^3 + 2(2) + 2 = 14 = 0 (mod 7)\nTherefore, 2 is a zero of the polynomial.\n\nSubstituting 3 from Z_7, we get:\n3^3 + 2(3) + 2 = 35 = 0 (mod 7)\nTherefore, 3 is a zero of the polynomial.\n\nSubstituting 4 from Z_7, we get:\n4^3 + 2(4) + 2 = 72 = 2 (mod 7)\nTherefore, 4 is not a zero of the polynomial.\n\nSubstituting 5 from Z_7, we get:\n5^3 + 2(5) + 2 = 137 = 5 (mod 7)\nTherefore, 5 is not a zero of the polynomial.\n\nSubstituting 6 from Z_7, we get:\n6^3 + 2(6) + 2 = 232 = 4 (mod 7)\nTherefore, 6 is not a zero of the polynomial.\n\nSo, the zeros of the polynomial x^3 + 2x + 2 in Z_7 are 2 and 3.\n\nHence, the correct answer is C: 2,3. {Answer: C}"
-    }
-    
-    
-    
+    },
     {
         "question_id": 0,
         "question": {
